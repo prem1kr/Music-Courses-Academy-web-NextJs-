@@ -57,8 +57,9 @@ src/
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prem1kr/Music-Courses-web-NextJs-.git
-   cd music-academy
+   git clone https://github.com/prem1kr/Music-Courses-Academy-web-NextJs-.git
+   cd Music-Courses-Academy-web-NextJs
+
 ````
 
 2. Install dependencies:
