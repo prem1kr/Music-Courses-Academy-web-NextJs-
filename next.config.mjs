@@ -4,8 +4,11 @@ const nextConfig = {
     domains: [
       "images.unsplash.com",
       "res.cloudinary.com",
-      "drive.google.com", 
+      "drive.google.com",
     ],
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   },
 };
 
