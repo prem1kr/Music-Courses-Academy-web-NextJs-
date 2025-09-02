@@ -57,7 +57,7 @@ src/
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-academy.git
+   git clone https://github.com/prem1kr/Music-Courses-web-NextJs-.git
    cd music-academy
 ````
 
